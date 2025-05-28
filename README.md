@@ -48,7 +48,7 @@
 1.  🌟 **Calculadora.js**
     * Descrição: Uma calculadora totalmente funcional construída com HTML, CSS e JavaScript puro, capaz de realizar operações básicas e com um design responsivo.
     * Tecnologias: `HTML`, `CSS`, `JavaScript`
-    * 🔗 [Link para o Repositório]([URL_DO_REPOSITORIO_PROJETO_1])
+    * 🔗 https://github.com/GabMarcon/calculadora.js
 
 
 ## 🌱 Meus Próximos Passos e Estudos
