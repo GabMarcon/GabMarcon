@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 <p>
-  Sou um Analista e Desenvolvedor de Sistemas atualmente focado em desenvolvimentos no Thingsboard. Tenho um grande interesse em design de interfaces intuitivase inteligência artificial.
+  Sou um Analista e Desenvolvedor de Sistemas atualmente focado em desenvolvimentos no Thingsboard. Tenho um grande interesse em design de interfaces intuitivas e inteligência artificial.
   <br><br>
 </p>
 
