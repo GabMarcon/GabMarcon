@@ -1,12 +1,15 @@
-<div align="center">
+div align="center">
   <h1>Olá, eu sou o Gabriel Marcon!</h1>
 </div>
 
 ## Sobre Mim
 
 <p>
-  Olá! Sou Gabriel, Analista e Desenvolvedor de Sistemas. Minha especialidade atual é o desenvolvimento em Thingsboard, mas minha paixão vai além: sou fascinado pelo poder de interfaces intuitivas, desenvolvimento de sites modernos de alta performance e pela inovação da inteligência artificial. Gosto de conectar esses mundos para criar projetos que não são apenas funcionais, mas que entreguem a melhor experiência possível para o usuário final.
+  Olá! Sou Gabriel, Analista e Desenvolvedor de Sistemas com forte atuação no cruzamento entre <strong>Engenharia de Dados, IoT e Desenvolvimento Web</strong>. 
   <br><br>
+  Trabalho com a construção de soluções de ponta a ponta: desde a extração, automação e tratamento de dados brutos (pipelines ETL e aplicações desktop em Python), até a visualização final em plataformas de telemetria como o Thingsboard e aplicações web modernas (React, Next.js). 
+  <br><br>
+  Recentemente, tenho focado em enriquecer a experiência do usuário final desenvolvendo interfaces ricas com geração dinâmica de relatórios detalhados (PDFs e planilhas) e dashboards interativos. Meu objetivo é sempre unir as melhores tecnologias para criar projetos robustos que entreguem valor e performance reais.
 </p>
 
 ## Habilidades
@@ -31,19 +34,28 @@
 </p>
 
 <p align="left">
-  <strong>Bibliotecas e Ferramentas:</strong>
+  <strong>Ecossistema Python (Dados & Automação):</strong>
   <br>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"> Pandas</code>
-  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Tkinter"> Tkinter (GUI)</code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"> Git</code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"> VSCode</code>
+  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"> Pandas (Análise de Dados)</code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Tkinter"> Tkinter (Aplicações Desktop/GUI)</code>
 </p>
 
 <p align="left">
-  <strong>IoT, Automação & Arquitetura:</strong>
+  <strong>Ecossistema JavaScript (Relatórios & Gráficos):</strong>
   <br>
-  <code>⚙️ Processos ETL & Pipelines de Dados</code>
-  <code>📊 Thingsboard (SCADA & Widgets)</code>
+  <code>📊 Chart.js</code>
+  <code>📄 jsPDF & AutoTable</code>
+  <code>📈 SheetJS (Manipulação de Excel)</code>
+</p>
+
+<p align="left">
+  <strong>Ferramentas, IDEs & IoT:</strong>
+  <br>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"> Git</code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"> VSCode</code>
+  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm"> PyCharm</code>
+  <code>⚙️ Pipelines ETL</code>
+  <code>📡 Thingsboard (SCADA & Dashboards)</code>
 </p>
 
 <p align="center">
